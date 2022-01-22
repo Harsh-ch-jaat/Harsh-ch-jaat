@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220114T065515Z
+DTSTART;TZID=Asia/Kolkata:20220120T140000
+DTEND;TZID=Asia/Kolkata:20220120T180000
+SUMMARY:GitHub Code Innovation Series - Jan session
+UID:20220114T065515Z-91730481612@fe80:0:0:0:1058:ebff:fecc:9715ens5
+TZID:Asia/Kolkata
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://github.zoom.us/s/91730481612?pwd=
+ UUtsQVFIWlBVcXB0QmNOcFR0bFpwQT09\n    Passcode: 741549\n\nOr One tap mob
+ ile:\n    +12532158782\,\,91730481612# US (Tacoma)\n    +13017158592\,\,
+ 91730481612# US (Washington DC)\n\nOr join by phone:\n    Dial(for highe
+ r quality\, dial a number based on your current location):\n        US: 
+ +1 253 215 8782  or +1 301 715 8592  or +1 312 626 6799  or +1 346 248 7
+ 799  or +1 646 876 9923  or +1 669 900 6833  or 877 853 5247 (Toll Free)
+  or 888 788 0099 (Toll Free)\n        Netherlands: +31 20 241 0288  or +
+ 31 20 794 0854  or +31 20 794 6519  or +31 20 794 6520  or +31 20 794 73
+ 45  or +31 707 006 526  or 0 800 022 1954 (Toll Free) or 0 800 220 0040 
+ (Toll Free)\n        United Kingdom: +44 131 460 1196  or +44 203 481 52
+ 37  or +44 203 481 5240  or +44 203 901 7895  or +44 208 080 6591  or +4
+ 4 208 080 6592  or +44 330 088 5830  or 0 800 031 5717 (Toll Free) or 0 
+ 800 260 5801 (Toll Free) or 0 800 358 2817 (Toll Free)\n        Australi
+ a: +61 8 6119 3900  or +61 8 7150 1149  or +61 2 8015 6011  or +61 3 701
+ 8 2005  or +61 7 3185 3730  or 1800 317 562 (Toll Free) or 1800 893 423 
+ (Toll Free) or 1800 945 157 (Toll Free)\n        Japan: +81 3 4578 1488 
+  or +81 363 628 317  or +81 524 564 439  or 00 663 381 4092 (Toll Free) 
+ or 0 800 100 5040 (Toll Free)\n        Denmark: +45 32 70 12 06  or +45 
+ 32 71 31 57  or +45 32 72 80 10  or +45 32 72 80 11  or +45 47 37 25 75 
+  or +45 89 88 37 88  or 80 71 12 51 (Toll Free) or 80 71 12 56 (Toll Fre
+ e)\n    Webinar ID: 917 3048 1612\n    International numbers available: 
+ https://github.zoom.us/u/a4O7bIALf\n\n\nOr an H.323/SIP room system:\n  
+   H.323: \n        162.255.37.11 (US West)\n        162.255.36.11 (US Ea
+ st)\n        115.114.131.7 (India Mumbai)\n        115.114.115.7 (India 
+ Hyderabad)\n        213.19.144.110 (Amsterdam Netherlands)\n        213.
+ 244.140.110 (Germany)\n        103.122.166.55 (Australia Sydney)\n      
+   103.122.167.55 (Australia Melbourne)\n        209.9.211.110 (Hong Kong
+  SAR)\n        64.211.144.160 (Brazil)\n        69.174.57.160 (Canada To
+ ronto)\n        65.39.152.160 (Canada Vancouver)\n        207.226.132.11
+ 0 (Japan Tokyo)\n        149.137.24.110 (Japan Osaka)\n    Webinar ID: 9
+ 17 3048 1612\n    Passcode: 741549\n\n    SIP: 91730481612@zoomcrc.com\n
+     Passcode: 741549\n
+LOCATION:https://github.zoom.us/s/91730481612?pwd=UUtsQVFIWlBVcXB0QmNOcFR
+ 0bFpwQT09
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
